@@ -1,4 +1,4 @@
-# My experience and certifications
+# Portfolio
 SShubrath.github.io/experience
 
 # Computer Engineering Undergraduate
@@ -17,8 +17,8 @@ SShubrath.github.io/experience
 
 ## Work Experience
 **Web Developer @ BTL Global (_June 2023 - Present_)**
-- Helped develop and maintain the company’s website using WordPress and CSS managed server traffic to site by increasing viewership by 22.93%. 
-- Experienced in the software development lifecycle including design, development, testing and implementation using AGILE processes.
+- Helped develop and maintain the company’s website using WordPress and CSS managed server traffic to the site by increasing viewership by 22.93%. 
+- Experienced in the software development lifecycle including design, development, testing, and implementation using AGILE processes.
 
 **Independent Contractor @ Fiverr (_Feb 2021 - Dec 2023_)**
 - Developed and constructed web pages and projects for individual customers in CSS/C++/JS/Java
